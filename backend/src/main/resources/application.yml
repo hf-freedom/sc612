@@ -1,0 +1,10 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: aftersale-system
+
+aftersale:
+  warranty-period-days: 30
+  repair-timeout-days: 3
